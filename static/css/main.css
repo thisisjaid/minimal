@@ -29,12 +29,12 @@ main {
 }
 
 .intro > h1 {
-    color: #212121;
+    color: #f2f9ff;
     font-size: 12vh;
 }
 
 .intro > h2 {
-    color: #757575;
+    color: #d6d8d9;
     font-size: 3vmin;
 }
 
